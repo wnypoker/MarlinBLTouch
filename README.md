@@ -1,3 +1,8 @@
+I am testing out different configurations with the SKR Mini 1.2 board.   
+
+Basically the problem I am having is that auto leveling is off centered on my Ender 3 Pro.  I've tried changing a few configs but it's still off centered.   Once I have it figured out I will update this page.
+
+
 # Marlin 3D Printer Firmware
 <img align="right" src="Documentation/Logo/Marlin%20Logo%20GitHub.png" />
 
